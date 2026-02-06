@@ -112,7 +112,7 @@ public class CloudSimExample2 {
 	 */
 	public static void main(String[] args) {
 
-		Log.printLine("Starting CloudSimExample2...");
+		Log.printLine("Starting CloudSim...");
 
 	        try {
 	        	// First step: Initialize the CloudSim package. It should be called
